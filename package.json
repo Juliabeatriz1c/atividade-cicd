@@ -1,0 +1,9 @@
+
+{
+  "nome":"atividade-cíclico",
+  "versão":"1.0.0",
+  "descrição":"Projeto e estudo de CI/CD",
+  "roteiros": {
+    "teste":"nó --teste"
+  }
+}
